@@ -1,7 +1,6 @@
- "chainlit>=2.6.3",
-    "gspread>=6.2.1",
-    "openai-agents>=0.2.3",
-    "requests>=2.32.4",
-    "schedule>=1.2.2",
-    "twilio>=9.6.5",
-
+chainlit>=2.6.3
+gspread>=6.2.1
+openai-agents>=0.2.3
+requests>=2.32.4
+schedule>=1.2.2
+twilio>=9.6.5
